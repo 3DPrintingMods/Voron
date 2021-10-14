@@ -24,6 +24,11 @@ Misumi HFSB5-2020-132-LTP			1 (bed extrusion)
 
 Note: The configurator gives 400mm for the corner extrusions, I added 25mm to give more clearance when changing filaments.
 
+## Components
+
+- 150mmx150mm bed - ![Mandala Roseworks](https://www.mandalaroseworks.com/shop/tiny-t)
+- 120mmx120mm heating pad - ![Keenovo](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=38120586870970)
+
 ## Linear Rails
 
 For Afterburner builds
