@@ -2,6 +2,11 @@
 
 Tiny-T is a Voron Trident with build volume 150mm^3. This is currently a work in progress.
 
+<p align="center">
+  <img src="images/image1.png">
+</p>
+
+
 ## Frame Specs
 
 If ordering from Misumi, these are the specs:
@@ -35,11 +40,6 @@ Linear Rail MGN9H 200mm		6
 ```
 
 ## Images
-
-<p align="center">
-  <img src="images/image1.png">
-</p>
-
 
 ### Front Skirts
 
