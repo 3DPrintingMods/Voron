@@ -1,6 +1,6 @@
 # Tiny-T
 
-Tiny-T is a Voron Trident with build volume 150mm^3. This is currently a work in progress.
+Tiny-T is a Voron Trident with build volume 150mm^3. **This is currently a work in progress.**
 
 <p align="center">
   <img src="images/image1.png">
