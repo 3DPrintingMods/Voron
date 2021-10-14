@@ -28,6 +28,7 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 
 - 150mmx150mm bed - [Mandala Roseworks](https://www.mandalaroseworks.com/shop/tiny-t)
 - 120mmx120mm heating pad - [Keenovo](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=38120586870970)
+- 3 V0.1 Z Stepper motor with 150mm lead screw - [Fabreeko](https://www.fabreeko.com/products/ldo-42sth25-1004cl200evrn-v0-1-z-motor?_pos=9&_sid=546ac732a&_ss=r)
 
 ## Linear Rails
 
