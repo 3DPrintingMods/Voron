@@ -36,7 +36,10 @@ Linear Rail MGN9H 200mm		6
 
 ## Images
 
-![image1](./images/image1.png)
+<p align="center">
+  <img src="images/image1.png">
+</p>
+
 
 ### Front Skirts
 
