@@ -39,13 +39,13 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 #### For Afterburner builds
 
 
-5x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
-1x Linear Rail MGN12H 200mm - [Ali Express](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
+- 5x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
+- 1x Linear Rail MGN12H 200mm - [Ali Express](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 
 #### For Mini Afterburner builds
 
 
-6x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
+- 6x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 
 
 ## Images
