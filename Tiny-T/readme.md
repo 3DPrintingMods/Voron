@@ -28,23 +28,35 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 
 - 150mmx150mm bed - [Mandala Roseworks](https://www.mandalaroseworks.com/shop/tiny-t)
 - 120mmx120mm 120w 24v heating pad - [Keenovo](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=38120586870970)
+- LDO Orbiter Extruder kit - [Fabreeko](https://www.fabreeko.com/products/ldo-orbiter-extruder-1-75mm?_pos=1&_sid=68aa9064c&_ss=r) OR 
+- LDO Galileo Clockwork kit - [Fabreeko](https://www.fabreeko.com/products/ldo-galileo-clockwork-kit?_pos=1&_sid=3b0226477&_ss=r)
+- A/B Motors (2x) - [Printed Solid](https://www.printedsolid.com/products/ldo-nema-17-motor-high-temp-180c-ldo-42sth40-2004mah)
 - 3x V0.1 Z Stepper motor with 150mm lead screw - [Fabreeko](https://www.fabreeko.com/products/ldo-42sth25-1004cl200evrn-v0-1-z-motor?_pos=9&_sid=546ac732a&_ss=r)
-- 3 GE5C bearings - [Deep Fried Hero](https://deepfriedhero.in/products/ge5c-spherical-bushing-plain-bearing?_pos=2&_psq=ge&_ss=e&_v=1.0)
+- 3x GE5C bearings - [Deep Fried Hero](https://deepfriedhero.in/products/ge5c-spherical-bushing-plain-bearing?_pos=2&_psq=ge&_ss=e&_v=1.0)
+- FYSETC V2.1 RGB Mini 12864 - [Amazon](https://www.amazon.com/gp/product/B08R9ZH7S2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Linear Rails
 
-For Afterburner builds
+#### For Afterburner builds
 
 ```
 Linear Rail MGN9H 200mm		5
 Linear Rail MGN12H 200mm	1
 ```
 
-For Mini Afterburner builds
+- 5x MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
+- 1x MGN12H 200mm - [Ali Express](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
+
+
+#### For Mini Afterburner builds
 
 ```
 Linear Rail MGN9H 200mm		6
 ```
+
+- 6x MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
+
+
 
 ## Images
 
