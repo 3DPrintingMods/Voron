@@ -34,7 +34,7 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 - 3x V0.1 Z Stepper motor with 150mm lead screw - [Fabreeko](https://www.fabreeko.com/products/ldo-42sth25-1004cl200evrn-v0-1-z-motor?_pos=9&_sid=546ac732a&_ss=r)
 - 3x GE5C bearings - [Deep Fried Hero](https://deepfriedhero.in/products/ge5c-spherical-bushing-plain-bearing?_pos=2&_psq=ge&_ss=e&_v=1.0), [Ali Express](https://www.aliexpress.com/item/1005001493222143.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 - FYSETC V2.1 RGB Mini 12864 - [Amazon](https://www.amazon.com/gp/product/B08R9ZH7S2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- Amplifier Cabinet - [Amazon](https://www.amazon.com/gp/product/B00JJ191Z6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- Amplifier Cabinet - [Amazon](https://www.amazon.com/gp/product/B00JJ191Z6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [Ali Express](https://www.aliexpress.com/item/1005001469045379.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=20279310410&aff_fcid=7957777e535a4b3c9616ff98efcb0673-1634268662620-05601-_mseXbAP&tt=MG&aff_fsk=_mseXbAP&aff_platform=default&sk=_mseXbAP&aff_trace_key=7957777e535a4b3c9616ff98efcb0673-1634268662620-05601-_mseXbAP&shareId=20279310410&businessType=ProductDetail&platform=AE&terminal_id=d351e39f504144729ff9c69423c32558)
 
 ## Linear Rails
 
