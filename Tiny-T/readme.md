@@ -31,9 +31,10 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 - LDO Orbiter Extruder kit - [Fabreeko](https://www.fabreeko.com/products/ldo-orbiter-extruder-1-75mm?_pos=1&_sid=68aa9064c&_ss=r) OR LDO Galileo Clockwork kit - [Fabreeko](https://www.fabreeko.com/products/ldo-galileo-clockwork-kit?_pos=1&_sid=3b0226477&_ss=r)
 - 2x LDO NEMA 17 stepper motors - [Printed Solid](https://www.printedsolid.com/products/ldo-nema-17-motor-high-temp-180c-ldo-42sth40-2004mah)
 - 3x V0.1 Z Stepper motor with 150mm lead screw - [Fabreeko](https://www.fabreeko.com/products/ldo-42sth25-1004cl200evrn-v0-1-z-motor?_pos=9&_sid=546ac732a&_ss=r)
-- 3x GE5C bearings - [Deep Fried Hero](https://deepfriedhero.in/products/ge5c-spherical-bushing-plain-bearing?_pos=2&_psq=ge&_ss=e&_v=1.0)
+- 3x GE5C bearings - [Deep Fried Hero](https://deepfriedhero.in/products/ge5c-spherical-bushing-plain-bearing?_pos=2&_psq=ge&_ss=e&_v=1.0), [Ali Express](https://www.aliexpress.com/item/1005001493222143.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 - FYSETC V2.1 RGB Mini 12864 - [Amazon](https://www.amazon.com/gp/product/B08R9ZH7S2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - Amplifier Cabinet - [Amazon](https://www.amazon.com/gp/product/B00JJ191Z6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- 150mm PEI Flex build plate - [Ali Express](https://www.aliexpress.com/item/1005003157344482.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 
 ## Linear Rails
 
