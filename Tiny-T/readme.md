@@ -38,17 +38,19 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 
 ## Linear Rails
 
-#### For Afterburner builds
 
+#### For Mini Afterburner builds
+
+- 6x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
+
+
+#### For Afterburner builds
 
 - 5x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 - 1x Linear Rail MGN12H 200mm - [Ali Express](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 
-#### For Mini Afterburner builds
 
-
-- 6x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
-
+ps.: print the X Carriage mounts from the Trident repository if using MGN12H
 
 ## Images
 
@@ -67,3 +69,12 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 ### Nevergrater (air filter)
 
 ![image5](./images/image5.png)
+
+
+### Mods used
+
+[Orbiter Clockwork](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/spacelab2021/Orbiter-Clockwork) by `Spacelab2021`
+[Klicky Probe](https://github.com/jlas1/Klicky-Probe) by `jlas1`
+[Single MGN9H Carriage](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) by `Ellis`
+[Other V2 Idlers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Phalanx/Other-V2-Idlers) by `Phalanx`
+[Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips) by `wile-e`
