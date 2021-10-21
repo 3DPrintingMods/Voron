@@ -3,6 +3,8 @@
 These PCBs are a remix of the Afterburner PCB by [hartk](https://github.com/hartk1213/Voron-Hardware/tree/hartk1213/Voron-Hardware/Afterburner_Toolhead_PCB). These are
 used only with Klicky since the diode and the 3 pin JST connector have been removed.
 
+Mount and wire cover for Galileo Clockwork can be found [here](https://github.com/thiagolocatelli/Voron/tree/master/Mods/galileo_clockwork_pcb).
+
 ## Klick & Chamber Thermistor (Screw Terminal OR Microfit)
 
 ### Screw Terminal version
