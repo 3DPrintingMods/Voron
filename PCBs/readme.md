@@ -5,21 +5,21 @@ used only with Klicky since the diode and the 3 pin JST connector have been remo
 
 Mount and wire cover for Galileo Clockwork can be found [here](https://github.com/thiagolocatelli/Voron/tree/master/Mods/galileo_clockwork_pcb).
 
-## Klick & Chamber Thermistor (Screw Terminal OR Microfit)
+### Klick & Chamber Thermistor (Screw Terminal OR Microfit)
 
-### Screw Terminal version
+#### Screw Terminal version
 
 ![klicky-jst-xh-terminal-1.png](./images/klicky-jst-xh-terminal-1.png)
 ![klicky-jst-xh-terminal-2.png](./images/klicky-jst-xh-terminal-2.png)
 
-### Microfit version
+#### Microfit version
 
                            
 ![klicky-jst-xh-microfit-1.png](./images/klicky-jst-xh-microfit-1.png)
 ![klicky-jst-xh-microfit-2.png](./images/klicky-jst-xh-microfit-2.png)
 
 
-### BOM Klicky PCB
+#### BOM Klicky PCB
 
 | Part      | Quantity | Notes | LCSC Part Number | Link |
 | ----------- | :-: | ----------- | ----------- |----------- |
@@ -34,9 +34,9 @@ Mount and wire cover for Galileo Clockwork can be found [here](https://github.co
 
 
 
-## Klick & Filament Sensor - ERCF 
+### Klick & Filament Sensor - ERCF 
 
-### BOM Klicky ERCF PCB
+#### BOM Klicky ERCF PCB
 
 | Part      | Quantity | Notes | LCSC Part Number | Link |
 | ----------- | :-: | ----------- | ----------- |----------- |
@@ -48,3 +48,13 @@ Mount and wire cover for Galileo Clockwork can be found [here](https://github.co
 | SMD LED         | 1  | - | C84256 | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.html) |
 | SMD Resistor    | 1  | - | C17724 | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F510KT5E_C17724.html)
 
+
+## Orbiter Clockwork 1.5 Mount
+
+![orbiter_image1.png](./images/orbiter_image1.png)
+![orbiter_image2.png](./images/orbiter_image2.png)
+![orbiter_image3.png](./images/orbiter_image3.png)
+
+## Galileo Clockwork Mount
+
+wip
