@@ -26,6 +26,7 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 
 ## Components
 
+- 6x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 - 150mmx150mm bed - [Mandala Roseworks](https://www.mandalaroseworks.com/shop/tiny-t)
 - 150mm PEI Flex build plate - [Ali Express](https://www.aliexpress.com/item/1005003157344482.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
 - 120mmx120mm 120w 24v heating pad - [Keenovo](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=38120586870970)
@@ -36,21 +37,6 @@ Note: The configurator gives 400mm for the corner extrusions, I added 25mm to gi
 - FYSETC V2.1 RGB Mini 12864 - [Amazon](https://www.amazon.com/gp/product/B08R9ZH7S2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - Amplifier Cabinet - [Amazon](https://www.amazon.com/gp/product/B00JJ191Z6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [Ali Express](https://www.aliexpress.com/item/1005001469045379.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=20279310410&aff_fcid=7957777e535a4b3c9616ff98efcb0673-1634268662620-05601-_mseXbAP&tt=MG&aff_fsk=_mseXbAP&aff_platform=default&sk=_mseXbAP&aff_trace_key=7957777e535a4b3c9616ff98efcb0673-1634268662620-05601-_mseXbAP&shareId=20279310410&businessType=ProductDetail&platform=AE&terminal_id=d351e39f504144729ff9c69423c32558)
 
-## Linear Rails
-
-
-#### For Mini Afterburner builds
-
-- 6x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
-
-
-#### For Afterburner builds
-
-- 5x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
-- 1x Linear Rail MGN12H 200mm - [Ali Express](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
-
-
-ps.: print the X Carriage mounts from the Trident repository if using MGN12H
 
 ## Images
 
@@ -73,8 +59,8 @@ ps.: print the X Carriage mounts from the Trident repository if using MGN12H
 
 ### Mods used
 
-[Orbiter Clockwork](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/spacelab2021/Orbiter-Clockwork) by `Spacelab2021`
-[Klicky Probe](https://github.com/jlas1/Klicky-Probe) by `jlas1`
-[Single MGN9H Carriage](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) by `Ellis`
-[Other V2 Idlers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Phalanx/Other-V2-Idlers) by `Phalanx`
-[Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips) by `wile-e`
+- [Orbiter Clockwork](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/spacelab2021/Orbiter-Clockwork) by `Spacelab2021`
+- [Klicky Probe](https://github.com/jlas1/Klicky-Probe) by `jlas1`
+- [Single MGN9H Carriage](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) by `Ellis`
+- [Other V2 Idlers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Phalanx/Other-V2-Idlers) by `Phalanx`
+- [Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips) by `wile-e`
