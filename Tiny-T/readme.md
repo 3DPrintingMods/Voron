@@ -24,6 +24,14 @@ Misumi HFSB5-2020-132-LTP			1 (bed extrusion)
 
 Note: The configurator gives 400mm for the corner extrusions, I added 25mm to give more clearance when changing filaments.
 
+## Panels
+
+```
+2 - 398mm x 284mm (side panels)
+2 - 398mm x 142mm (front doors)
+1 - 284mm x 284mm (top panel)
+```
+
 ## Components
 
 - 6x Linear Rail MGN9H 200mm - [Ali Express](https://www.aliexpress.com/item/32773296501.html?spm=a2g0s.9042311.0.0.6ea64c4dDtOd7b)
