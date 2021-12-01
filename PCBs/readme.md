@@ -30,7 +30,7 @@ Mount and wire cover for Galileo Clockwork can be found [here](https://github.co
 | 2 pin Socket    | 1 | MOLEX 0430450200 | C429847 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-0430450200_C429847.html)
 | SMD Thermistor  |  1 | 100K 0805 Thermistor | C143680   | [LCSC](https://lcsc.com/product-detail/NTC-Thermistors_Vishay-Intertech-NTCS0805E3104FXT_C143680.html) |
 | SMD LED         | 1  | - | C84256 | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.html) |
-| SMD Resistor    | 1  | - | C144127 | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AF0805JR-0710KL_C144127.html)
+| SMD Resistor (for LED)   | 1  | - | C4310 | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1501T5E_C4310.html)
 
 
 
@@ -46,7 +46,7 @@ Mount and wire cover for Galileo Clockwork can be found [here](https://github.co
 | 4 pin JST XH    |  3 | 2.5mm pitch | C144395   | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-B4B-XH-A-LF-SN_C144395.html) |
 | 2 pin Socket    |  1 | MOLEX 0430450200 | C429847 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-0430450200_C429847.html) |
 | SMD LED         | 1  | - | C84256 | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.html) |
-| SMD Resistor    | 1  | - | C144127 | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AF0805JR-0710KL_C144127.html)
+| SMD Resistor (for LED)   | 1  | - | C4310 | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1501T5E_C4310.html)
 
 
 ## Orbiter Clockwork 1.5 Mount
