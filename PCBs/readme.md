@@ -16,11 +16,11 @@ Mount and wire cover for Galileo Clockwork can be found [here](https://github.co
 
 | Part      | Quantity | Notes | Manuf Part Number | LCSC Part Number | Link |
 | ----------- | :-: | ----------- | ----------- | ----------- |----------- |
-| 14 Pin Socket   | 1 | MOLEX | 430451400 | C293738   | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-430451412_C293738.html) |
+| 14 Pin Socket   | 1 | MOLEX | 430451400 | C277677   | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-430451400_C277677.html) |
 | 14 Pin Plug     | 1 | MOLEX | 430251400 | C293526   | [LCSC](https://lcsc.com/product-detail/Rectangular-Connectors-Housings_MOLEX-430251400_C293526.html) |
 | 2 pin JST XH    | 5 | 2.5mm pitch | | C158012   | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-B2B-XH-A-LF-SN_C158012.html) |
 | 4 pin JST XH    | 3 | 2.5mm pitch | | C144395   | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-B4B-XH-A-LF-SN_C144395.html) |
-| Screw Terminal  | 1 | 3.5mm pitch | | 1751248 | C89122    | [LCSC](https://lcsc.com/product-detail/Screw-terminal_Phoenix-Contact-1751248_C89122.html) |
+| Screw Terminal  | 1 | 3.5mm pitch | 1751248| C89122 | [LCSC](https://lcsc.com/product-detail/Screw-terminal_Phoenix-Contact-1751248_C89122.html) |
 | SMD Thermistor  | 1 | 100K 0805 Thermistor | | C143680   | [LCSC](https://lcsc.com/product-detail/NTC-Thermistors_Vishay-Intertech-NTCS0805E3104FXT_C143680.html) |
 | SMD LED         | 1  | red | | C84256 | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.html) |
 | SMD LED         | 1  | blue | | C138557 | [LCSC](https://jlcpcb.com/parts/componentSearch?isSearch=true&searchTxt=BL-HB335A-AV-TRB-6) |
@@ -36,7 +36,7 @@ Mount and wire cover for Galileo Clockwork can be found [here](https://github.co
 
 | Part      | Quantity | Notes | Manuf Part Number | LCSC Part Number | Link |
 | ----------- | :-: | ----------- | ----------- | ----------- |----------- |
-| 14 Pin Socket   | 1 | MOLEX | 430451400 | C293738 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-430451412_C293738.html) |
+| 14 Pin Socket   | 1 | MOLEX | 430451400 | C277677 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-430451400_C277677.html) |
 | 14 Pin Plug     | 1 | MOLEX | 430251400 | C293526 | [LCSC](https://lcsc.com/product-detail/Rectangular-Connectors-Housings_MOLEX-430251400_C293526.html) |
 | 2 pin JST XH    | 5 | 2.5mm pitch | | C158012 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-B2B-XH-A-LF-SN_C158012.html) |
 | 4 pin JST XH    | 3 | 2.5mm pitch | | C144395 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-B4B-XH-A-LF-SN_C144395.html) |
@@ -54,7 +54,7 @@ Mount and wire cover for Galileo Clockwork can be found [here](https://github.co
 
 | Part      | Quantity | Notes | Manuf Part Number | LCSC Part Number | Link |
 | ----------- | :-: | ----------- | ----------- | ----------- |----------- |
-| 14 Pin Socket   | 1 | MOLEX | 430451400 | C293738 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-430451412_C293738.html) |
+| 14 Pin Socket   | 1 | MOLEX | 430451400 | C277677 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-430451400_C277677.html) |
 | 14 Pin Plug     | 1 | MOLEX | 430251400 | C293526 | [LCSC](https://lcsc.com/product-detail/Rectangular-Connectors-Housings_MOLEX-430251400_C293526.html) |
 | 2 pin JST PH    | 5 | B2B-PH | | C131337 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-B2B-PH-K-S-LF-SN_C131337.html) |
 | 3 pin JST PH    | 1 | B3B-PH | | C131339 | [LCSC](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-B3B-PH-K-S-LF-SN_C131339.html) |
